@@ -1,1 +1,1 @@
-for test
+cuda 자습 해보기
