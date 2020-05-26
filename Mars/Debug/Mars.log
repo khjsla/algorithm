@@ -1,0 +1,3 @@
+﻿  mars.cpp
+c:\users\khj\source\repos\mars\mars.cpp(32): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mars.vcxproj -> C:\Users\khj\source\repos\Mars\Debug\Mars.exe
